@@ -9,7 +9,7 @@ channel_targets:
 docker_image:
 - condaforge/linux-anvil-comp7
 libpcap:
-- '1.8'
+- '1.9'
 pin_run_as_build:
   libpcap:
     max_pin: x.x
