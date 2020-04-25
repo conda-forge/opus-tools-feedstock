@@ -30,7 +30,6 @@ requirements:
     - libopus
     - libogg
     - libopusenc
-    - libpcap
     - opusfile
 
 test:
