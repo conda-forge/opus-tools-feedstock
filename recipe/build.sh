@@ -10,3 +10,6 @@ export OPUSURL_LIBS="-lopusurl -lopusfile"
 make -j${CPU_COUNT}
 make check
 make install
+
+# Install opusrtp as well, the reason why pcap was included
+./install-sh opusrtp $PREFIX
