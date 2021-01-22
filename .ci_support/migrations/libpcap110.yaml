@@ -3,5 +3,5 @@ __migrator:
   kind: version
   migration_number: 1
 libpcap:
-- '1.9'
-migrator_ts: 1586036130.9277492
+- '1.10'
+migrator_ts: 1611023987.2014124
